@@ -1,6 +1,6 @@
 
 // 01 Scroll to top
-let span = document.querySelector(".up");
+let span = document.querySelector("#up");
 window.onscroll = function () {
     if (this.scrollY >= 800) {
       span.classList.add("show");
