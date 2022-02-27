@@ -544,11 +544,6 @@
 		position: static;
 		display: block;
 	}
-	> {
-		&:last-child {
-			margin-bottom: 0;
-		}
-	}
 	>svg {
 		+ {
 			svg {
@@ -1789,11 +1784,6 @@
 	font-weight: 600;
 	color: #7952b3;
 }
-&:not(.algolia-docsearch-suggestion__main) {
-	>.algolia-docsearch-suggestion--category-header {
-		display: none;
-	}
-}
 .ds-suggestion {
 	&:not(:first-child) {
 		.algolia-docsearch-suggestion--category-header {
@@ -2049,9 +2039,6 @@
 	}
 	.mw-md-75 {
 		max-width: 75%;
-	}
-	&:root {
-		scroll-padding-top: 4rem;
 	}
 	.bd-links {
 		position: -webkit-sticky;

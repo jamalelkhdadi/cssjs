@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-.up {
+#up {
     position: fixed;
     bottom: 15px;
     right: -30px;
@@ -16,7 +16,7 @@
     cursor: pointer;
     transition: 0.2s;
 }
-.up.show {
+#up.show {
     right: 15px;
 }
 
