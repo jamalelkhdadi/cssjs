@@ -3,10 +3,10 @@ Lite framework CSS and JavaScript
 
 ## style
 
-`https://raw.githubusercontent.com/jamalelkhdadi/cssjs/main/dist/style.css`
+`<link rel="stylesheet" href="https://jamalelkhdadi.github.io/cssjs/dist/style.css">`
 
 
 ## script
 
-`https://raw.githubusercontent.com/jamalelkhdadi/cssjs/main/dist/script.js`
+`<script src="https://jamalelkhdadi.github.io/cssjs/dist/script.js"></script>`
 
